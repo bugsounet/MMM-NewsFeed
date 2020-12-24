@@ -1,0 +1,18 @@
+{
+  "name": "MMM-NewsFeed",
+  "version": "1.0.0",
+  "description": "RSS feed reader for MagicMirror",
+  "scripts": {
+    "preinstall": "installer/preinstall.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bugsounet/MMM-NewsFeed"
+  },
+  "author": "@bugsounet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bugsounet/MMM-NewsFeed/issues"
+  },
+  "homepage": "https://github.com/bugsounet/MMM-NewsFeed"
+}
