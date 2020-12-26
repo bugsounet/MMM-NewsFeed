@@ -1,6 +1,6 @@
 # MMM-NewsFeed
 
-This module will be available and scheduled to be released on January 2021 !
+This module will be available and scheduled to be released at 01 January 2021, and needed MagicMirror v2.14.00 and more !
 
 ## Description
 
